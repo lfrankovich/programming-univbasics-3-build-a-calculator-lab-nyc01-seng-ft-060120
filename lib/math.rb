@@ -4,7 +4,7 @@ end
 addition
 
 def subtraction(num1, num2)
-  push num2 - num1
+  push num1 - num2
 end
 
 def division(num1, num2)
