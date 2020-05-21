@@ -1,5 +1,5 @@
 def addition(num1, num2)
-  push num2 + num1
+  push num1 + num2
 end
 addition
 
